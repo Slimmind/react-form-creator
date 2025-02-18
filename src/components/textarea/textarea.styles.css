@@ -1,0 +1,18 @@
+.textarea-wrap {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  color: var(--color-gray);
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+textarea {
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid var(--color-gray-dark);
+  border-radius: var(--radius-main);
+  color: var(--color-gray);
+}

@@ -1,0 +1,5 @@
+form {
+  background-color: var(--color-dark);
+  padding: 10px;
+  border-radius: var(--radius-main);
+}
