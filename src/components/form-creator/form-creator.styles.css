@@ -1,0 +1,7 @@
+.form-creator {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  height: 100dvh;
+  padding: 10px;
+}
